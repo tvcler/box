@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="amc.es" tvg-name="|SP| AMC HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/AMCHD.png" group-title="ES| ENTRETENIMIENTO",|SP| AMC HD
-http://line.eagletv.co:80/Nina/YXH8FAITAE/1664
+http://line.eagletv.co:80/Nina/ES7ZYJHEEN/1664
 #EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/AXN.png" group-title="ES| ENTRETENIMIENTO",|SP| AXN
 http://line.eagletv.co:80/Nina/YXH8FAITAE/1663
 #EXTINF:-1 tvg-id="" tvg-name="|SP| BEIN SPORTS XTRA SPANISH HD" tvg-logo="http://logo.ottc.pro:8080/logos/USASPORT/BEINSPORTEXTRA.png" group-title="ES| DEPORTES",|SP| BEIN SPORTS XTRA SPANISH HD
