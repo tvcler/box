@@ -68,7 +68,7 @@ https://cdn.adultiptv.net/brunette.m3u8
 https://cdn.adultiptv.net/compilation.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="|SP| ATV ANDORRA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/ATVANDORRA.png" group-title="ES| REGIONALES",|SP| ATV ANDORRA
-http://line.eagletv.co:80/Full/f/539665
+http://line.eagletv.co:80/Full/MCHBVHPHCX/539665
 #EXTINF:-1 tvg-id="amc.es" tvg-name="|SP| AMC HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/AMCHD.png" group-title="ES| ENTRETENIMIENTO",|SP| AMC HD
 http://line.eagletv.co:80/Full/MCHBVHPHCX/1664
 #EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/AXN.png" group-title="ES| ENTRETENIMIENTO",|SP| AXN
