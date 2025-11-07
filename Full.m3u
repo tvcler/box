@@ -12,6 +12,8 @@ https://dai.google.com/linear/hls/pa/event/Kij3D1mCTmCxREg3up5wFQ/stream/deedbbd
 https://dai.google.com/linear/hls/pa/event/Kij3D1mCTmCxREg3up5wFQ/stream/deedbbdd-c24d-42c8-bf8f-6ef8617d5875:BRU/variant/383fe45076066d952b97c6e2e2d93d76/bandwidth/616000.m3u8
 #EXTINF:-1 group-title="TV FREE", LA CUATRO2
 https://dai.google.com/linear/hls/pa/event/Kij3D1mCTmCxREg3up5wFQ/stream/deedbbdd-c24d-42c8-bf8f-6ef8617d5875:BRU/variant/0e855e37cdceb1e1a53eb9c49e8ff557/bandwidth/1899000.m3u8
+#EXTINF:-1 group-title="TV FREE", LA CUATRO3
+https://dai.google.com/linear/hls/pa/event/Kij3D1mCTmCxREg3up5wFQ/stream/deedbbdd-c24d-42c8-bf8f-6ef8617d5875:BRU/variant/1b18032fdd77bc9d55029992b9d93635/bandwidth/3415000.m3u8
 
 #EXTINF:-1 group-title="XXX", Teen
 https://cdn.adultiptv.net/teen.m3u8
