@@ -14,7 +14,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="TV FREE",La 1 UHD (2160p)
 http://176.65.146.237:8401/play/a09u/index.m3u8
 
-#EXTINF:-1 tvg-id="Cuatro.es@SD" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="General",Cuatro (1080p)
+#EXTINF:-1 group-title="TV FREE",Cuatro (1080p)
 http://176.65.146.237:8401/play/a09s/index.m3u8
 
 #EXTINF:-1 group-title="XXX", Teen
