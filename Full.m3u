@@ -4,16 +4,18 @@ http://line.eagletv.co:80/Full/EHD5M2UNQ8/554104
 
 #EXTINF:-1 group-title="TV FREE", LA 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_360.m3u8
+
 #EXTINF:-1 group-title="TV FREE", LA 1.1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_576.m3u8
-#EXTINF:-1 group-title="TV FREE", LA CUATRO
-https://dai.google.com/linear/hls/pa/event/Kij3D1mCTmCxREg3up5wFQ/stream/deedbbdd-c24d-42c8-bf8f-6ef8617d5875:BRU/variant/ef049555f1239e688f96ae6ea57c9a57/bandwidth/1083000.m3u8
-#EXTINF:-1 group-title="TV FREE", LA CUATRO1
-https://dai.google.com/linear/hls/pa/event/Kij3D1mCTmCxREg3up5wFQ/stream/deedbbdd-c24d-42c8-bf8f-6ef8617d5875:BRU/variant/383fe45076066d952b97c6e2e2d93d76/bandwidth/616000.m3u8
-#EXTINF:-1 group-title="TV FREE", LA CUATRO2
-https://dai.google.com/linear/hls/pa/event/Kij3D1mCTmCxREg3up5wFQ/stream/deedbbdd-c24d-42c8-bf8f-6ef8617d5875:BRU/variant/0e855e37cdceb1e1a53eb9c49e8ff557/bandwidth/1899000.m3u8
-#EXTINF:-1 group-title="TV FREE", LA CUATRO3
-https://dai.google.com/linear/hls/pa/event/Kij3D1mCTmCxREg3up5wFQ/stream/deedbbdd-c24d-42c8-bf8f-6ef8617d5875:BRU/variant/1b18032fdd77bc9d55029992b9d93635/bandwidth/3415000.m3u8
+
+#EXTINF:-1 group-title="TV FREE", LA 1.2
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 group-title="TV FREE",La 1 UHD (2160p)
+http://176.65.146.237:8401/play/a09u/index.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro.es@SD" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="General",Cuatro (1080p)
+http://176.65.146.237:8401/play/a09s/index.m3u8
 
 #EXTINF:-1 group-title="XXX", Teen
 https://cdn.adultiptv.net/teen.m3u8
